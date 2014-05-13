@@ -1,0 +1,8 @@
+Complete the following tasks:
+
+validateString.php - host on own server and forward code for review.
+uniqueSelect.php - forward code for review.
+sqlQueries.txt - forward code for review.
+
+All code will be used during interview. Candidate will be expected
+to speak to their solutions.
